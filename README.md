@@ -8,3 +8,5 @@
 Programa _**Skills for Women in Tech**_ en colaboración con *BRITISH COUNCIL*.
 
 ### Insertaremos una imagen
+
+![hack](img/logo_britishcouncil.png)
