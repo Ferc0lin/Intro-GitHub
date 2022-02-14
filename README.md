@@ -5,4 +5,6 @@
 
 # Introducción a GitHub
 
-Programa _**Skills for Women in Tech**_ en colaboración con *BRITISH COUNCIL*
+Programa _**Skills for Women in Tech**_ en colaboración con *BRITISH COUNCIL*.
+
+### Insertaremos una imagen
